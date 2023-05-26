@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#bandera
+{
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+}
+#verde
+{
+    background-color: green;
+    width: 539px;
+    height: 100vh;
+}
+#blanco
+{
+    background-color: white;
+    width: 539px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#blanco img{
+    width: 250px;
+}
+
+#rojo
+{
+    background-color: red;
+    width: 539px;
+    height: 100vh;
+}
